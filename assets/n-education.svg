@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="202" viewBox="0 0 900 202" role="img" aria-label="Universitas Indonesia: Computer Engineering, 3.94 GPA. Apple Developer Academy, Dicoding iOS Developer Expert." font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"><title>Universitas Indonesia: Computer Engineering, 3.94 GPA. Apple Developer Academy, Dicoding iOS Developer Expert.</title>
+    <defs>
+    <linearGradient id="nneducationbase" x1="0" y1="0" x2="0.3" y2="1">
+      <stop offset="0" stop-color="#0b1036"/><stop offset=".45" stop-color="#121a52"/><stop offset="1" stop-color="#0a0e2c"/>
+    </linearGradient>
+    <radialGradient id="nneducationglowA" cx=".78" cy=".2" r=".45"><stop offset="0" stop-color="#96b9ff" stop-opacity=".42"/><stop offset="1" stop-color="#96b9ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="nneducationglowB" cx=".2" cy=".62" r=".5"><stop offset="0" stop-color="#5f86ff" stop-opacity=".32"/><stop offset="1" stop-color="#5f86ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="nneducationglowC" cx=".5" cy="1.02" r=".6"><stop offset="0" stop-color="#2b3f9e" stop-opacity=".9"/><stop offset="1" stop-color="#2b3f9e" stop-opacity="0"/></radialGradient>
+    <linearGradient id="nneducationpetal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b9caff" stop-opacity=".55"/><stop offset=".45" stop-color="#6e8cf0" stop-opacity=".2"/><stop offset=".8" stop-color="#1e2878" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="nneducationpetalB" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9d4ff" stop-opacity=".5"/><stop offset=".5" stop-color="#7a92ee" stop-opacity=".16"/><stop offset=".85" stop-color="#1e2878" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="nneducationrimLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e6ecff" stop-opacity="0"/><stop offset=".5" stop-color="#e6ecff" stop-opacity=".55"/><stop offset="1" stop-color="#e6ecff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="nneducationblur" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="16"/></filter>
+    <filter id="nneducationshadow" x="-20%" y="-40%" width="140%" height="200%"><feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#050820" flood-opacity=".22"/></filter>
+    <linearGradient id="nneducationtint" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".2"/><stop offset="1" stop-color="#fff" stop-opacity=".09"/></linearGradient>
+    <linearGradient id="nneducationrim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".85"/><stop offset=".3" stop-color="#fff" stop-opacity=".14"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity="0"/><stop offset=".7" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity=".6"/>
+    </linearGradient>
+    <radialGradient id="nneducationsheen" cx=".22" cy="0" r=".7"><stop offset="0" stop-color="#fff" stop-opacity=".24"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient></defs>
+    
+    <g opacity="0.27999999999999997">
+      <rect x="76" y="46" width="748" height="132" rx="30" fill="#0b1036" filter="url(#nneducationshadow)"/>
+      <clipPath id="nneducationc7646748"><rect x="76" y="46" width="748" height="132" rx="30"/></clipPath>
+      <g clip-path="url(#nneducationc7646748)">
+        <g filter="url(#nneducationblur)" transform="translate(0 -1540)">
+    <rect width="900" height="1700" fill="url(#nneducationbase)"/>
+    <rect width="900" height="1700" fill="url(#nneducationglowA)"/>
+    <rect width="900" height="1700" fill="url(#nneducationglowB)"/>
+    <rect width="900" height="1700" fill="url(#nneducationglowC)"/>
+    
+      <g transform="rotate(-24 120 520)">
+        <ellipse cx="120" cy="520" rx="410" ry="165" fill="url(#nneducationpetal)"/>
+        <ellipse cx="120" cy="520" rx="410" ry="165" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(32 860 160)">
+        <ellipse cx="860" cy="160" rx="380" ry="150" fill="url(#nneducationpetalB)"/>
+        <ellipse cx="860" cy="160" rx="380" ry="150" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(-8 420 1180)">
+        <ellipse cx="420" cy="1180" rx="350" ry="130" fill="url(#nneducationpetal)"/>
+        <ellipse cx="420" cy="1180" rx="350" ry="130" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(18 60 40)">
+        <ellipse cx="60" cy="40" rx="260" ry="100" fill="url(#nneducationpetalB)"/>
+        <ellipse cx="60" cy="40" rx="260" ry="100" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(-38 820 980)">
+        <ellipse cx="820" cy="980" rx="320" ry="125" fill="url(#nneducationpetal)"/>
+        <ellipse cx="820" cy="980" rx="320" ry="125" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(14 300 1560)">
+        <ellipse cx="300" cy="1560" rx="380" ry="140" fill="url(#nneducationpetalB)"/>
+        <ellipse cx="300" cy="1560" rx="380" ry="140" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g></g>
+        <rect x="76" y="46" width="748" height="132" fill="url(#nneducationtint)"/>
+        <rect x="76" y="46" width="748" height="132" fill="url(#nneducationsheen)"/>
+      </g>
+      <rect x="76.75" y="46.75" width="746.5" height="130.5" rx="29.25" fill="none" stroke="url(#nneducationrim)" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.42">
+      <rect x="50" y="35" width="800" height="132" rx="30" fill="#0b1036" filter="url(#nneducationshadow)"/>
+      <clipPath id="nneducationc5035800"><rect x="50" y="35" width="800" height="132" rx="30"/></clipPath>
+      <g clip-path="url(#nneducationc5035800)">
+        <g filter="url(#nneducationblur)" transform="translate(0 -1500)">
+    <rect width="900" height="1700" fill="url(#nneducationbase)"/>
+    <rect width="900" height="1700" fill="url(#nneducationglowA)"/>
+    <rect width="900" height="1700" fill="url(#nneducationglowB)"/>
+    <rect width="900" height="1700" fill="url(#nneducationglowC)"/>
+    
+      <g transform="rotate(-24 120 520)">
+        <ellipse cx="120" cy="520" rx="410" ry="165" fill="url(#nneducationpetal)"/>
+        <ellipse cx="120" cy="520" rx="410" ry="165" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(32 860 160)">
+        <ellipse cx="860" cy="160" rx="380" ry="150" fill="url(#nneducationpetalB)"/>
+        <ellipse cx="860" cy="160" rx="380" ry="150" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(-8 420 1180)">
+        <ellipse cx="420" cy="1180" rx="350" ry="130" fill="url(#nneducationpetal)"/>
+        <ellipse cx="420" cy="1180" rx="350" ry="130" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(18 60 40)">
+        <ellipse cx="60" cy="40" rx="260" ry="100" fill="url(#nneducationpetalB)"/>
+        <ellipse cx="60" cy="40" rx="260" ry="100" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(-38 820 980)">
+        <ellipse cx="820" cy="980" rx="320" ry="125" fill="url(#nneducationpetal)"/>
+        <ellipse cx="820" cy="980" rx="320" ry="125" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(14 300 1560)">
+        <ellipse cx="300" cy="1560" rx="380" ry="140" fill="url(#nneducationpetalB)"/>
+        <ellipse cx="300" cy="1560" rx="380" ry="140" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g></g>
+        <rect x="50" y="35" width="800" height="132" fill="url(#nneducationtint)"/>
+        <rect x="50" y="35" width="800" height="132" fill="url(#nneducationsheen)"/>
+      </g>
+      <rect x="50.75" y="35.75" width="798.5" height="130.5" rx="29.25" fill="none" stroke="url(#nneducationrim)" stroke-width="1.5"/>
+    </g>
+    
+    <g opacity="1">
+      <rect x="24" y="24" width="852" height="132" rx="30" fill="#0b1036" filter="url(#nneducationshadow)"/>
+      <clipPath id="nneducationc2424852"><rect x="24" y="24" width="852" height="132" rx="30"/></clipPath>
+      <g clip-path="url(#nneducationc2424852)">
+        <g filter="url(#nneducationblur)" transform="translate(0 -1460)">
+    <rect width="900" height="1700" fill="url(#nneducationbase)"/>
+    <rect width="900" height="1700" fill="url(#nneducationglowA)"/>
+    <rect width="900" height="1700" fill="url(#nneducationglowB)"/>
+    <rect width="900" height="1700" fill="url(#nneducationglowC)"/>
+    
+      <g transform="rotate(-24 120 520)">
+        <ellipse cx="120" cy="520" rx="410" ry="165" fill="url(#nneducationpetal)"/>
+        <ellipse cx="120" cy="520" rx="410" ry="165" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(32 860 160)">
+        <ellipse cx="860" cy="160" rx="380" ry="150" fill="url(#nneducationpetalB)"/>
+        <ellipse cx="860" cy="160" rx="380" ry="150" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(-8 420 1180)">
+        <ellipse cx="420" cy="1180" rx="350" ry="130" fill="url(#nneducationpetal)"/>
+        <ellipse cx="420" cy="1180" rx="350" ry="130" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(18 60 40)">
+        <ellipse cx="60" cy="40" rx="260" ry="100" fill="url(#nneducationpetalB)"/>
+        <ellipse cx="60" cy="40" rx="260" ry="100" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(-38 820 980)">
+        <ellipse cx="820" cy="980" rx="320" ry="125" fill="url(#nneducationpetal)"/>
+        <ellipse cx="820" cy="980" rx="320" ry="125" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(14 300 1560)">
+        <ellipse cx="300" cy="1560" rx="380" ry="140" fill="url(#nneducationpetalB)"/>
+        <ellipse cx="300" cy="1560" rx="380" ry="140" fill="none" stroke="url(#nneducationrimLine)" stroke-width="2"/>
+      </g></g>
+        <rect x="24" y="24" width="852" height="132" fill="url(#nneducationtint)"/>
+        <rect x="24" y="24" width="852" height="132" fill="url(#nneducationsheen)"/>
+      </g>
+      <rect x="24.75" y="24.75" width="850.5" height="130.5" rx="29.25" fill="none" stroke="url(#nneducationrim)" stroke-width="1.5"/>
+    </g>
+    <clipPath id="ic4652"><rect x="46" y="52" width="76" height="76" rx="17.1"/></clipPath><g clip-path="url(#ic4652)"><rect x="46" y="52" width="76" height="76" fill="#0b1a4a"/>
+      <image href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcgaWQ9InN2ZzIiIGhlaWdodD0iMzE0LjU5NzIzIiB2aWV3Qm94PSIwIDAgMzEzLjk5OTk5IDMxNC41OTcyMSIgd2lkdGg9IjMxNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgPHBhdGggaWQ9InBhdGg0MjAwIiBkPSJtLTE0MC45NDU2MiA2ODAuMTE1NjJjLjM1NDQ5LjAxOTEuNzA5NTEuMDMzNSAxLjA2ODE2LjA0MzEgMTMuMTc3NzMuMjEzMzYgMjQuMTk1MTItMTEuNTA5NTIgMTYuODk5MzQtMjUuNjcwNTQtLjc5ODg3IDEwLjk2NDE1LTYuMDU5MzMgMTYuODg4NDgtMTcuMTkyNzkgMTYuODg4NDgtLjI2MzExIDAtLjUxOTU4LS4wMDQtLjc3NDcxLS4wMTQ0LS4yNTM1NC4wMDUtLjUxMDczLjAxNDQtLjc3NDY2LjAxNDQtMTEuMTMxNDQgMC0xNi4zOTM5Ni01LjkyNDMzLTE3LjE5Mjc4LTE2Ljg4ODQ4LTcuMjk1NzQgMTQuMTYxMDIgMy43MjA5NCAyNS44ODQwNCAxNi44OTg2NyAyNS42NzA1NC4zNTg3OS0uMDA1LjcxNTM0LS4wMjM5IDEuMDY4NzctLjA0MzF6bTAtMTcuNDMwODhjLjI3ODkxLjAyMzkuNTYzNDYuMDM4My44NTc1Ny4wMzgzIDkuNzgyMTkuMjM1MzcgMTEuODU1ODgtOC44NTAyOCA5LjQzNjYtMTQuMzMzODYtMS41NTI2OCA1LjQ4MjM5LTYuMDc2MzYgOC4yNjkwMy0xMC4yOTQxNyA3LjM5NDE0LTQuMjE2NTEuODc0ODktOC43NDE0NC0xLjkxMTc1LTEwLjI5MjgyLTcuMzk0MTQtMi40MTkyOCA1LjQ4MzU4LS4zNDU4OCAxNC41Njk0NyA5LjQzNTM1IDE0LjMzMzg2LjI5MzI2IDAgLjU4MDM5LS4wMTQ0Ljg1NzQ3LS4wMzgzem0wLTI3LjExNzcyYzEuMDc2MDEtLjAzODMgMi4wOTc4NS0uMDQzMSAzLjA1Mzg4LS4wMDQgMzAuNzkzNjkgMS4yMzkwNCA3MC4wMjk1OTggMTAuOTMxOTEgODYuMjExNTM4IDUuMTc4NiAxMS4xMTY0NzMtMy45NTE1MiAyOS4wNjM2ODQtMTYuMzAxODcgMzcuNDM5MzQ2LTUuNDQ2NSAyLjUzNjAxIDMuMjg3MTgtNy42NjgxMTkgMTEuNDY1ODktNy44NzY4NDIgMS43OTE1OC00LjEzMTAyMS03Ljc5MTgzLTEyLjk2MTIwNSAzLjg1MzQ2LTYuNTQ3MDk5IDEwLjAzNTUtMjMuMzY4ODQyIDIxLjE5NzAzLTg2LjkwNDc4My0yLjk3MDI1LTkyLjk3NTIxMy00LjU0MTE1LTEuNzM1ODktLjQ0OTY5LTIuNjk3MTMgMS4yNDU2NC0xLjMyMzgxIDMuNDk1MjggMi4yMTQ2MyAzLjYyOTE5IDkuMDE1MzcgOC45MjgwMiAxMC42NjU4OCAxNC41MTMyNiAzLjMyNTc0IDExLjI1MzU4LTYuNTUzMDMgMjkuMzAxNTktMjYuMjM3NDggMjkuODAzMjgtLjgyMjI2LjAxOTEtMS42MjMwOS4wMDUtMi40MTAyLS4wMjg3LS43ODU3MS4wMzM1LTEuNTg3ODMuMDQ3OC0yLjQwODkuMDI4Ny0xOS42ODYzNi0uNTAxNjktMjkuNTY0NDYtMTguNTQ5Ny0yNi4yMzkzNC0yOS44MDMyOCAxLjY1MTA4LTUuNTg1MjQgOC40NTEyNS0xMC44ODQwNyAxMC42NjU3OC0xNC41MTMyNiAxLjM3NTMzLTIuMjQ5NjQuNDE0MjgtMy45NDQ5Ny0xLjMyMzA1LTMuNDk1MjgtNi4wNzA0NyAxLjU3MDktNjkuNjA3MDQgMjUuNzM4MTgtOTIuOTc1MyA0LjU0MTE1IDYuNDE0MS02LjE4MjA0LTIuNDE1OTktMTcuODI3MzMtNi41NDU4MS0xMC4wMzU1LS4yMTA0OSA5LjY3NDMxLTEwLjQxNDE1IDEuNDk1Ni03Ljg3ODA5LTEuNzkxNTggOC4zNzU2Ny0xMC44NTUzNyAyNi4zMjQxNyAxLjQ5NDk4IDM3LjQ0MTI2IDUuNDQ2NSAxNi4xNzk0MSA1Ljc1MzMxIDU1LjQxNzI3LTMuOTM5NTYgODYuMjExNjQtNS4xNzg2Ljk1NTM1LS4wNDMxIDEuOTc3ODItLjAzMzUgMy4wNTE4MS4wMDR6bTAtMzMuNDY5NmMtMS43MjY3Ni0uMjI3MjMtMy42OTY3My40NDkyMi0zLjgzMDQ5IDEuOTkwMTItMS45OTA3OSAxNS4zNjQyMi0uMjEyODkgMTMuMTA0MzktNi4wMDM4NCAxOS41NDk1NC04LjIxNDYzIDkuMTQxNDgtMTYuMjU3IDguMzM5NTktMjkuMTc5NzkgOC45OTkyLTEyLjIxMzI4LjYyMTkxLTIxLjkxOTIxIDEuMzc1OTYtMjMuOTk1NDktMy40NDk4NC0xLjA5ODItMi41NDkyNiA1LjczMzg4LTIxLjYyMzk5IDI0LjYzNTItMjUuMTMyOTYgNi43MTU0LTEuMjQ2MjYgMTkuMTI2MjYgMS44MjIwNiAxOS4xMTg0MS0xLjgzNzY1LS4wMTQ0LTYuMjI0NDctMTguNjI1NDItNC4zNjgzNi0yNC40ODMzLTIuOTg1MTgtMjAuNDg4NDkgNC44Mzk1My0zNy43ODMwMyAxMi41MDUyLTUzLjcyNjMgMzMuNjkyMDUgMzAuMTU0NjYgMTQuMzc3NTMgNjIuNTU1MTkuMjcwNzcgOTYuNjU3NjktMS4zNTQ0My4yNjgzOC4wMjM5LjUzNzk2LjA0NzguODA3OTEuMDc2MS4yNjk4Mi0uMDIzOS41NDEyNi0uMDUzNi44MDc5Ni0uMDc2MSAzNC4xMDI1NiAxLjYyNTI5IDY2LjUwMzA4MSAxNS43MzE5NiA5Ni42NTcwMjMgMS4zNTQ0My0xNS45NDEzNTYtMjEuMTg2ODUtMzMuMjM1OC0yOC44NTI1Mi01My43MjYyOTMtMzMuNjkyMDUtNS44NTc4OC0xLjM4MzE4LTI0LjQ3MDMtMy4yMzkyOS0yNC40ODMzMSAyLjk4NTE4LS4wMDUgMy42NTk3MSAxMi40MDM3NC41OTEzOSAxOS4xMjEwNSAxLjgzNzY1IDE4Ljg5ODY4NSAzLjUwODk3IDI1LjczMDc2MyAyMi41ODM3IDI0LjYzNDYyMSAyNS4xMzI5Ni0yLjA3NTcwMSA0LjgyNTgtMTEuNzg0MjE1IDQuMDcxNzUtMjMuOTk2ODgxIDMuNDQ5ODQtMTIuOTIyNzQtLjY1OTYxLTIwLjk2NTc3LjE0MjA5LTI5LjE4MDQxLTguOTk5Mi01Ljc5MTI4LTYuNDQ1MTUtNC4wMTMwNS00LjE4NTMyLTYuMDAzOTMtMTkuNTQ5NTQtLjEzMjk5LTEuNTQxMDUtMi4xMDM2NC0yLjIxNzM1LTMuODI5ODMtMS45OTAxMnptMC05MS44MzUzNGMtLjg5MTM5LS40Njc4Ny0xLjY4NTYxLTIuMTE1NzQtMS43NDY5NC00Ljc3Njc1LS4yODk5MS0xMi41ODIzNy0zLjg2OTAxLTI1Ljk2NTQyLTIuNDg0NDktNDAuNjI2NDEuNTYyMDYtNS4xNjg0MSAyLjMyNzI5LTguMDUwMTYgNC4yMzE0My04LjcyNzY2IDEuOTAzNTMuNjc3NTUgMy42NzA3MiAzLjU1OTI1IDQuMjMyODggOC43Mjc2NiAxLjM4MjQxIDE0LjY2MDk5LTIuMTk1NjkgMjguMDQ0MDQtMi40ODU4MyA0MC42MjY0MS0uMDYxNyAyLjY2MTAxLS44NTYyOCA0LjMwOTEyLTEuNzQ3MDUgNC43NzY3NXptMC0xMzAuNDU3ODVjLTIwLjUyNTY1IDE0LjE0MzctNTMuMDU1MjkgMTcuMjM0MTItNTIuNDkxODkgNTMuNjk1NDQtLjMxNzY1IDE0LjQ1MTA2IDcuMDAwNDIgMjIuNTQzMDkgMzQuNDYzMjEgMjIuMzAwODggOC4yMTY1LS4wNzI3IDguMjMxNDMgMjUuNzU0OTIgNy45ODk1NSAzNy4wOTIyNy01LjE0MjQ5LTguMDQ4MzktOS45ODE3Ny0xMy41Mjg5Ni0xOS4yNDQ5LTE5Ljk1MzIxLTIxLjE0ODQ3LTE2Ljk0MjMtMzEuMTcyNjMtMjAuNTM4LTMxLjE3MjYzLTQxLjI0NzA3IDAtMTUuNzUyMyA0LjI0MDY3LTIwLjc1OTI2IDEzLjIzOTAxLTMxLjMxODAyLTMxLjY0MDc0IDQuNzIyMzItNzcuMTc5OTEgMjkuNjA1OTQtNDMuNjk4MTcgNTkuNjU1MDIgMTQuODMyMTEgMTMuMjE4NjMgMzguNjExMTIgMi41Mzk3IDU0Ljg2ODEyIDE1LjAyODczIDkuMjgzMzcgNi4xODAyNyAyNi44NzUxOCAyNC44MTYwOCAyNi44NzUxOCAzNy42MTk3bC40NjA3IDcuNTQxMjUtMS40MzA2OSAzMy44MjA1OGMtLjE0NTkxIDEuOTc5OTgtMi44ODg4NyAxLjU4NDY4LTIuOTI5ODctLjE5ODUzIDAtMzYuNTM0MjctMjEuMjQxMDQtNjIuNDMwMzItNTguMzcxMy02Mi40MzAzMi0xMy43MTc2OSAwLTIxLjYwMTYxIDIuNjE1NjEtMzYuMDU0ODggMi4wOS0xMy42NTExOS4xNTc4Ny0yOS43MzI3Ni05LjgyNjItMzAuMjY4OC0yMC4zODAxNy0xNS4xODU1NCAxMy4zNzk1MS0xMi45MjY2NyA0NS45NDkxIDE1LjAwMDM2IDQzLjI2NDExIDE3Ljk1NDQzLTMuNDc0OSAxOS45NDY2NS0xOS4zNzEzNCA0NS43Nzk3OS0xOS4zNzEzNCAxNi4yNDA2OS0uMDkzMyAyOS40MzE0OC4yNjQ1NiA0Mi4yMzIyOCAxMi41MTk1NiA1LjYwMjk0IDUuMzY3IDEwLjQxMDg0IDEwLjQzNjc3IDEzLjU0NTU2IDI4Ljk3ODEuMjg5OTEgNC4yNTI5MS0xLjYxOTIyIDQuMDY2MzQtMi43MzM2NCAxLjc1MDg3LTkuNTg2NjEtMTkuOTI0NDYtMTkuNTUxNDUtMjQuNzcyMzUtMzcuMjE1NjQtMjUuNDU3MDgtMjguNDA1NzUtLjE1Nzg3LTUyLjg3MDc0IDM4LjA5MjA3LTczLjUwMzM2IDM4LjA5MjA3LTkuNDIxNjIgMC0xNC44Nzg0Ny0zLjQxMzkxLTIwLjMzNzIyLTEwLjIwMTEyLjQ4OTg3IDE1Ljg1NzU0IDIuODY4NTkgMzAuNjA4MTggMjEuNTEyOTIgMzAuNzU3NjggMTEuNDM0NjUuMTU3ODcgMjAuNzI3Mi0xMi43MzcyMiAyNi45MDI2My0yMi4wMTU2NiAxMC43MTkzMS0xNi4xMDY5MyAzMS4yMTE3Ny0zNC45MTczNSA1My42NDE0OC0zMC42NTQyNSAxOS42ODA2MiA0LjczNjA5IDMxLjA4Nzg2IDIzLjcxMjc2IDMxLjA4Nzg2IDUxLjcyMDMgMCA1LjU5MjQxLTIuNDc1NCAxNS40NDc4OS05LjgyNjUzIDE1LjQ0Nzg5LTcuMDI5NzUgMC05LjU1NjYzLTEuNTUxMTktOS41NTY2My03Ljg1MDM5IDAtMTEuNTk0NDggNC4zODk5My0zOS4wMjA3Ny05Ljk5Mjg3LTM5LjAyMDc3LTcuODQxNTMtLjI3Nzk0LTExLjI2ODQxIDMuOTQwNzctMTEuNTQ0MjUgOS40MzMzNC4wMjM5IDYuMDc2NzUgMTMuMTU0MjQgMTEuMjA5MzMgMTAuNzc0OCAxLjczMjM2LS43MzU2Mi0yLjkyNDE4IDQuNDQ3OTYtNC4xMDQwNCA0Ljc0NTMzLjMxMzM1LS4yNTgzMyA5LjUxMjg1LTkuMzY2MTcgOC40MDQxNy04LjQyMzg4IDI4LjkwMzMzIDAgMTUuNzU4ODkgMTMuNjQwMDQgMTIuNTAyOCAzMS40Nzk3NiAxMi41OTc5MSAxNC42NDQyOSAxLjYwODU1IDkuNDUxNTcgMTUuOTk0NDYtLjgyMjM2IDE2LjA0MjMtNS4wNzU5NC4xODY1Ny02LjcyMTIzLTIuNjIyMTctMTAuMDk0NTgtMy4wNTYzMS0yLjgxOTAyLS4zNTU5My01LjU5Mzc1LjM3MTIzLTYuMjI1NjYgMi4yMzA1LTEuNTcxNTIgNy43Nzc0OCAxMC41NjgwNCA5Ljk0MDM5IDIwLjE5MTExIDkuOTQwMzkgNi44NTk1NC4zMjcyMy0yLjY0ODc3IDUuMzUxNDYtNy4zNjI4NSA1LjQ4NTQxLTMuMjU4NTguMDkxNC0zLjExODM2IDMuMTI4NjktLjE2NjQ4IDMuMTk1MDQgMTYuNzYwMzYtLjQzMDU1IDE3Ljg5Njk4LTEwLjk3MDc1IDIxLjE4MTYyLTI1LjE0ODUxLjI5OTk2LTMuNjY5OSAyLjg0NzExLTUuMjY2NTQgNy40OTc5Ni01LjQ4MTgyIDQuNjUwNzkuMjE1MjggNy4xOTc5IDEuODExOTIgNy40OTcyMyA1LjQ4MTgyIDMuMjg2NjYgMTQuMTc3NzYgNC40MjE5NCAyNC43MTc5NiAyMS4xODE3MyAyNS4xNDg1MSAyLjk1MjA3LS4wNjY1IDMuMDk0ODctMy4xMDM1OC0uMTY0NTctMy4xOTUwNC00LjcxNTQzLS4xMzM5NS0xNC4yMjQ0NS01LjE1ODI4LTcuMzY0MjQtNS40ODU0MSA5LjYyMzEyIDAgMjEuNzY0MDIyLTIuMTYyOTYgMjAuMTkxMTYxLTkuOTQwMzktLjYzMjYzMS0xLjg1OTE4LTMuNDA1MzUxLTIuNTg2MzMtNi4yMjU3MTEtMi4yMzA1LTMuMzczOTcuNDM0MzgtNS4wMTcyNSAzLjI0Mjg4LTEwLjA5NDU4IDMuMDU2MzEtMTAuMjczOTMtLjA0NzgtMTUuNDY0NjQtMTQuNDMzNzUtLjgyMjkzLTE2LjA0MjMgMTcuODM5NTctLjA5NTIgMzEuNDgxNjczIDMuMTYwOTggMzEuNDgxNjczLTEyLjU5NzkxLjk0MjkxMy0yMC40OTkxNi04LjE2NjMxNy0xOS4zOTA0OC04LjQyNTI3Mi0yOC45MDMzMy4yOTc1NjEtNC40MTczOSA1LjQ4MDMzLTMuMjM3NTMgNC43NDY3NjItLjMxMzM1LTIuMzc4OTA2IDkuNDc2OTcgMTAuNzQ3MzQ0IDQuMzQ0MzkgMTAuNzc0NzU2LTEuNzMyMzYtLjI3Njk4OS01LjQ5MjU3LTMuNzAzOTYtOS43MTEzOC0xMS41NDM2NzgtOS40MzMzNC0xNC4zODQ3MTEgMC05Ljk5NDczNiAyNy40MjYyOS05Ljk5NDczNiAzOS4wMjA3NyAwIDYuMjk5Mi0yLjUyNjkyNSA3Ljg1MDM5LTkuNTU2Njc1IDcuODUwMzktNy4zNDk4NCAwLTkuODI2NTMtOS44NTU0OC05LjgyNjUzLTE1LjQ0Nzg5IDAtMjguMDA3NTQgMTEuNDA4NTMtNDYuOTg0MjEgMzEuMDg3ODYzLTUxLjcyMDMgMjIuNDI5MTM0LTQuMjYzMSA0Mi45MjM1MDMgMTQuNTQ3MzIgNTMuNjQwOSAzMC42NTQyNSA2LjE3NjA1NyA5LjI3ODQ0IDE1LjQ2ODU2IDIyLjE3MzUzIDI2LjkwMzE2NCAyMi4wMTU2NiAxOC42NDM3NTItLjE0OTI2IDIxLjAyMjY1OC0xNC45MDAxOCAyMS41MTQzMDMtMzAuNzU3NjgtNS40NTgwODQ3IDYuNzg3MjEtMTAuOTE0OTI1NiAxMC4yMDExMi0yMC4zMzY1OTQ0IDEwLjIwMTEyLTIwLjYzNTE1OTYgMC00NS4wOTc2MDk2LTM4LjI0OTk0LTczLjUwMzMxMTYtMzguMDkyMDctMTcuNjY2MjUuNjg0NzMtMjcuNjI5NzA0IDUuNTMyNjItMzcuMjE3NjU0IDI1LjQ1NzA4LTEuMTE0NDIgMi4zMTU0Ny0zLjAyNDQxIDIuNTAyMDQtMi43MzIzLTEuNzUwODcgMy4xMzMzOC0xOC41NDEzMyA3Ljk0MTMzLTIzLjYxMTEgMTMuNTQ2MTgtMjguOTc4MSAxMi44MDA4NTMtMTIuMjU1MjQgMjUuOTg5Njc3LTEyLjYxMjg0IDQyLjIzMjI3OC0xMi41MTk1NiAyNS44MzA2MDYgMCAyNy44MjM0NDkgMTUuODk2NDQgNDUuNzc5Nzk4IDE5LjM3MTM0IDI3LjkyNTEwNzYgMi42ODQ5OSAzMC4xODM5MzctMjkuODg0NiAxNS4wMDA0MDM5LTQzLjI2NDExLS41MzYwODc1IDEwLjU1Mzk3LTE2LjYyMDI0MzkgMjAuNTM4MDQtMzAuMjY5NDczOSAyMC4zODAxNy0xNC40NTQ1NTguNTI1NjEtMjIuMzM2NTY2LTIuMDktMzYuMDU2MTY4LTIuMDktMzcuMTMwOTI4IDAtNTguMzcxOTE4IDI1Ljg5NjA1LTU4LjM3MTkxOCA2Mi40MzAzMi0uMDM4MyAxLjc4MzI2LTIuNzgxOTEgMi4xNzg1MS0yLjkyNzk2LjE5ODUzbC0xLjQzMjc0LTMzLjgyMDU4LjQ2MjEzLTcuNTQxMjVjMC0xMi44MDM2MiAxNy41OTE4Ni0zMS40Mzk0MyAyNi44NzMyNi0zNy42MTk3IDE2LjI1OTYzMS0xMi40ODkwMyA0MC4wMzY2ODYtMS44MTAxIDU0Ljg3MDgwMS0xNS4wMjg3MyAzMy40Nzk2ODUtMzAuMDQ5MDgtMTIuMDU5NDM0LTU0LjkzMjctNDMuNzAwMjIyLTU5LjY1NTAyIDguOTk4Mzg2IDEwLjU1ODc2IDEzLjI0MDk2OSAxNS41NjU3MiAxMy4yNDA5NjkgMzEuMzE4MDIgMCAyMC43MDkwMi0xMC4wMjY3NCAyNC4zMDQ3Ny0zMS4xNzUxNjggNDEuMjQ3MDctOS4yNjA1NSA2LjQyNDI1LTE0LjEwMTc5IDExLjkwNDgyLTE5LjI0MjMyIDE5Ljk1MzIxLS4yNDQ0Ni0xMS4zMzczNS0uMjI5NjMtMzcuMTY1MTggNy45ODY5Ny0zNy4wOTIyNyAyNy40NjQ3MDIuMjQyMDYgMzQuNzgzMzA2LTcuODQ5ODIgMzQuNDY1MDc5LTIyLjMwMDg4LjU2MjExMi0zNi40NjEzMi0zMS45Njc0NzktMzkuNTUxNzQtNTIuNDkzMTg5LTUzLjY5NTQ0em0tMTIuMjQ0NTIgMjIuODgwMzZjLTcuNDMyNyAxLjg5Mi0xMS4zMTc5NyAxMi45MDgyNC0xMC43MjUyNCAyNC4zNjg3MyAwIDYuMDY2NiA1LjU4NDY3IDE0LjExNjgxIDkuNTE4MTYgMTYuNjI3MTMtMi42ODYwNC02LjYzNzctNi42OTMyLTIyLjM4MjIgMS4yMDcwOC00MC45OTU4NnptOC4xMTY3MSAxNTUuMTAxMDhjMC0zLjU3NjYxLTQuMDExMDktNC4wODMwOC00LjE2MTA3IDEuMjk1MjUuNTU4MjQgMTYuMzYxLTcuNjA4MTIgMTUuNzQwMzQtOC4xMDM2OSAyMi4wNjUyNyAwIDQuNjc0NDguOTkyNDcgNy45OTIxOCA3LjU0OTM4IDcuMzU4MjYgNS44MDA0NyAwIDQuNzk4ODYtMTAuMDcyNTcgNC43OTg4Ni0xNC43MzM4OXptLTY5LjQ0NTk2LTg0LjIyNzE2Yy00Ljc2Njg2IDcuMTIyNy0xOS45MjExNiAxMy40NTE4NC0yOS42NDQwNyAxMy40NTE4NC0zNS40NDEyNSAwLTM0LjA1ODE2LTM1LjE4ODIyLTYuNzA0MjYtNTEuNzgxMjktLjcxMzM4IDIzLjk3MTcxIDEyLjUyNjk3IDM4LjI2MzA5IDM2LjM0ODMzIDM4LjMyOTQ1em0tMzguMjcyNzEgNDYuOTY5MjdjLTQuMzA1MjEgMTUuNjMwMzEtMTEuMzU4OTcgMjUuMzg3MTQtMjUuODU4NTkgMjUuMzg3MTQtMTkuMzQ0Ny0xLjczNzE5LTE4LjM1MzQ3LTI3LjM2MzQ4LTE0LjIxMTM1LTM3LjIyMjU5IDkuNjk1NTEgMTYuMDMyMTYgMjUuNTk0NTIgMTcuMDg2MzkgNDAuMDY5OTQgMTEuODM1NDV6bTgwLjA4MTg0IDU2LjA1OTk0YzMuNTM0MzctLjMxNjY5IDQuODc4MzcgMy4xMDg5NCAzLjU1ODQ4IDUuNDY4NjEtMS4zMTk4NCAyLjM1Nzg2LTQuOTk0NDcgMi4wODE1OS02LjU4MDM1LS4yMjM0MS0xLjIxMS0xLjc1ODA5LS40NjU5NS01LjE0NTEyIDMuMDIxODctNS4yNDQ5NnptLTk1LjUxODQ5IDE5LjY4NzA0Yy04LjA0NSAwLTE3LjkzMDI4LTExLjcxNjQzLTE5LjA1MjU0LTE5LjAzNzY2IDQuOTY1MTUgMS45OTAxMSAxMS4wNzI3NSA0LjE0NTkgMTcuMTc0NDYgMy4yNzY0MiA2Ljk0NDkzLTEuMjY1OTggNy4zMTk5NS0xLjg5MzI1IDEwLjk3MDM3LTYuNDQ5OTQgNi40ODY1NCA5LjQxNjU1IDQuOTc2MjUgMjIuMjExMTgtOS4wOTIyOSAyMi4yMTExOHptMTMuOTkwOTQgMTUuOTMzNTFjLTEwLjU4OTU3IDIuOTczMjEtMTguNDAxNzgtOC45OTczOC0yMC4zNzk2LTEyLjU2MjA0IDYuOTQyOTIgMy45MjA0OCAyMC4zNjEzMyAzLjcyOTEzIDIzLjA4Nzc5LTMuMjYxNDQgMi43MTM0IDYuNjY3MDMgNC4yMTA2NyAxMi44MzUyOS0yLjcwODE5IDE1LjgyMzQ4em0zLjc4NDE0IDEyLjM5NjM2Yy00LjUwMjczLS43MTE2MS03LjI0ODEzLTIuNTk4MjktOC4xMTE0OS01LjY4MjExIDUuNTI5MTcuODAxODggMTEuMzQ1OTYtLjcwMTQ3IDEzLjQ5Mzk5LTQuOTU2MTYgMi44NjczNSA0LjYwMjE1IDIuMTI1ODQgMTEuODI4MjgtNS4zODI1IDEwLjYzODI3em01MS4zOTUwNC0xMy4yOTkzM2MtNC43ODM4NCA0LjI0NzUxLTkuMzg2NDEgMTIuMjA2Mi0xMy4xMzE0MiAxNy4yODc5NC0yLjQyIDMuMjgzNTUtNi4yMDM1MiAyLjEzNjAyLTUuMjEwOTkuMjMxMDYgMy4wMTI3My01Ljc4NTU5IDExLjYyNzA2LTE1LjYyMDc0IDE4LjM0MjQxLTE3LjUxODc2em0tMy44MTM1MS0yLjc2ODEzYy00LjY1OTk4IDQuMzE4Ny0xMC4zMDcxOCA5LjM5Mzg4LTExLjUwNTA4IDEwLjcwMjktNy41OTMxIDguMjgzMzQtMTEuMzQ3MjkgMTMuMTE5ODktMTMuNDg0MjMgOC4yODY5Ny0uNDMwNTUtLjk3Mjk1IDMuNzUyMjMtNi43MjI2MiA5Ljk0MjY0LTEwLjg4NTg5IDQuODY1MzYtMy4yNzM0IDkuMDM1NTYtNi41MDQzMyAxNS4wNDY2Ny04LjEwMzk4em0zMi42MzMzNiA3Ni4xNjU2MmMtNy4xMzUzOCAzLjQ3NzkyLTI1LjI3MDQxLS41MTA2OC0yNy45NDkyNy04LjU5OTEyIDEwLjUzOTk2LTQuNzMzMTMgMTUuNzE1NzQtOC40MzcwNCAyMy42Mjc3NS0xNC4xNTc0My0uMjkxODIgMTAuNzgwNTUuOTM1MDYgMTQuMjY1NjkgNC4zMjE1MiAyMi43NTY1NXptLTU3Ljg0MzExLTIyLjUyMjc2YzUuMjk0NDItLjY2Nzk4IDE3LjU3MjI5LjA1NDEgMjUuMzYxNzMtMi4yMjIxMyAxMi42Njc4MS0zLjcwNzU1IDE5LjYxNTk0LTQuNjU0NzcgMzEuNDQyNTQtOS4yMTMyNC00LjU2MDE4IDcuODQxNDQtMTcuNTE0MjYgMTQuOTAxOTEtMjEuNzQ1NzUgMTcuNTQwODctMTAuOTM1MTYgOC42MTEwOC0zMi44ODQzNyA3Ljk0MzE0LTM1LjA1ODUyLTYuMTA1NXptOTkuMzgwMjItMjU5LjQ5NTQ0YzcuNDM0NjcgMS44OTIgMTEuMzIwNTEgMTIuOTA4MjQgMTAuNzI1MiAyNC4zNjg3MyAwIDYuMDY2Ni01LjU4NCAxNC4xMTY4MS05LjUxNzQ5IDE2LjYyNzEzIDIuNjg1MzYtNi42Mzc3IDYuNjk1MTYtMjIuMzgyMi0xLjIwNzcxLTQwLjk5NTg2em0tOC4xMTYxMyAxNTUuMTAxMDhjMC0zLjU3NjYxIDQuMDExMTQtNC4wODMwOCA0LjE2MjQ1IDEuMjk1MjUtLjU1ODIzIDE2LjM2MSA3LjYwNjc5IDE1Ljc0MDM0IDguMTAzNjUgMjIuMDY1MjcgMCA0LjY3NDQ4LS45OTQzOSA3Ljk5MjE4LTcuNTUwNzIgNy4zNTgyNi01Ljc5OTEzIDAtNC43OTg4MS0xMC4wNzI1Ny00Ljc5ODgxLTE0LjczMzg5em02OS40NDczNS04NC4yMjcxNmM0Ljc2NTUxNSA3LjEyMjcgMTkuOTIxMTEgMTMuNDUxODQgMjkuNjQ0MDIzIDEzLjQ1MTg0IDM1LjQzOTMyNzMgMCAzNC4wNTg3OC0zNS4xODgyMiA2LjcwNDkyMS01MS43ODEyOS43MTE0NjcgMjMuOTcxNzEtMTIuNTI5NTUgMzguMjYzMDktMzYuMzQ4OTQ0IDM4LjMyOTQ1em0zOC4yNzEzNjggNDYuOTY5MjdjNC4zMDY0OTYgMTUuNjMwMzEgMTEuMzU5MDE4IDI1LjM4NzE0IDI1Ljg1OTg4NCAyNS4zODcxNCAxOS4zNDQ3NDItMS43MzcxOSAxOC4zNTIyMTktMjcuMzYzNDggMTQuMjA5MzMzLTM3LjIyMjU5LTkuNjkzNDkxNyAxNi4wMzIxNi0yNS41OTM4MDIgMTcuMDg2MzktNDAuMDY5MjE3IDExLjgzNTQ1em0tODAuMDgwNDU4IDU2LjA1OTk0Yy0zLjUzNTc1LS4zMTY2OS00Ljg3Nzc5IDMuMTA4OTQtMy41NTg1NyA1LjQ2ODYxIDEuMzE5ODQgMi4zNTc4NiA0Ljk5NTA5IDIuMDgxNTkgNi41ODEwMi0uMjIzNDEgMS4yMDg5OS0xLjc1ODA5LjQ2MzU2LTUuMTQ1MTItMy4wMjI0NS01LjI0NDk2em05NS41MTkwMjMgMTkuNjg3MDRjOC4wNDQ0MjIgMCAxNy45MzAzMjM2LTExLjcxNjQzIDE5LjA1MTkxNjctMTkuMDM3NjItNC45NjYzOTIxMiAxLjk5MDA3LTExLjA3Mzk5MTQgNC4xNDU4Ni0xNy4xNzU4MDE3IDMuMjc2MzgtNi45NDQ5MzItMS4yNjU5OC03LjMxODU1Ny0xLjg5MzI1LTEwLjk3MDk5NC02LjQ0OTk0LTYuNDg0NTczIDkuNDE2NTUtNC45NzYyNDcgMjIuMjExMTggOS4wOTQ4NzkgMjIuMjExMTh6bS0xMy45OTE1NjkgMTUuOTMzNTFjMTAuNTg4Mjc5IDIuOTczMjEgMTguMzk5ODY3MS04Ljk5NzM4IDIwLjM3NzY4ODUtMTIuNTYxOTktNi45NDMwMTc1IDMuOTIwNDMtMjAuMzYwNzA1NSAzLjcyOTA4LTIzLjA4NzE2NDUtMy4yNjE0OS0yLjcxNDExNyA2LjY2NzAzLTQuMjA5MzM1IDEyLjgzNTI5IDIuNzA5NDc2IDE1LjgyMzQ4em0tMy43ODU0NzggMTIuMzk2MzZjNC41MDI4MjktLjcxMTYxIDcuMjQ5NTI0LTIuNTk4MjUgOC4xMTI5MjgtNS42ODIxMS01LjUzMDU2MS44MDE4OC0xMS4zNDYwNTQtLjcwMTQyLTEzLjQ5NjAwMS00Ljk1NjE2LTIuODY2Njc2IDQuNjAyMTUtMi4xMjUyNjIgMTEuODI4MjggNS4zODMwNzMgMTAuNjM4Mjd6bS01MS4zOTM2OTYtMTMuMjk5MzNjNC43ODE4NzYgNC4yNDc1MSA5LjM4NTA3MiAxMi4yMDYyIDEzLjEzMDE3NCAxNy4yODc5NCAyLjQxOTI4MyAzLjI4MzU5IDYuMjAzNDIxIDIuMTM2MDIgNS4yMTA4OTkuMjMxMDYtMy4wMTEzOS01Ljc4NTU5LTExLjYyNzAxNC0xNS42MjA3NC0xOC4zNDEwNzMtMTcuNTE4NzZ6bTMuODEzNDY1LTIuNzY4MTNjNC42NTgwMTkgNC4zMTg3NSAxMC4zMDUzMDkgOS4zOTM4OCAxMS41MDUxNjcgMTAuNzAyOSA3LjU5MTc2NiA4LjI4MzM4IDExLjM0NTk1OCAxMy4xMTk5NCAxMy40ODI5NDEgOC4yODY5Ny40MzI0NjctLjk3Mjk1LTMuNzUwOTM5LTYuNzIyNjItOS45NDEzOTYtMTAuODg1ODQtNC44NjczMTYtMy4yNzM0LTkuMDM2ODQ5LTYuNTA0MzgtMTUuMDQ2NzEyLTguMTA0MDN6bS0zMi42MzUyNzUgNzYuMTY1NjJjNy4xMzUzOCAzLjQ3NzkyIDI1LjI3MTA4LS41MTA2OCAyNy45NDkzMTctOC41OTkxMi0xMC41MzgwNDgtNC43MzMxMy0xNS43MTU3OTQtOC40MzcwNC0yMy42MjcxMjctMTQuMTU3NDMuMjkxODIgMTAuNzgwNTUtLjkzMzgyIDE0LjI2NTY5LTQuMzIyMTkgMjIuNzU2NTV6bTU3Ljg0MzEwOS0yMi41MjI3NmMtNS4yOTM4MDUtLjY2Nzk4LTE3LjU2OTY2NC4wNTQxLTI1LjM2MTAxNi0yLjIyMjEzLTEyLjY2NzgwNi0zLjcwNzU1LTE5LjYxNDc0Ny00LjY1NDc3LTMxLjQ0MzIxMy05LjIxMzI0IDQuNTYwODEgNy44NDE0NCAxNy41MTQ4NCAxNC45MDE5MSAyMS43NDc3MTIgMTcuNTQwODcgMTAuOTMzODIyIDguNjExMDggMzIuODgzMDggNy45NDMxNCAzNS4wNTY1MTctNi4xMDU1IiBmaWxsPSIjZmNkZDE5IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI5Ny45NDQ4NTI4NSAtMzc3LjgwNDIyOTg2KSIvPgo8L3N2Zz4K" x="56.64" y="62.64" width="54.72" height="54.72" preserveAspectRatio="xMidYMid meet"/></g>
+    <text x="144" y="64" fill="#fff" fill-opacity=".72" font-size="19" font-weight="600">Universitas Indonesia</text>
+    <text x="852" y="64" text-anchor="end" fill="#fff" fill-opacity=".62" font-size="18">2022</text>
+    <text x="144" y="96" fill="#fff" font-size="24" font-weight="650" letter-spacing="-.2">Computer Engineering, 3.94 GPA</text>
+    <text x="144" y="128" fill="#fff" fill-opacity=".9" font-size="20">Apple Developer Academy, Dicoding iOS Developer Expert.</text></svg>

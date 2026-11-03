@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150" role="img" aria-label="LinkedIn" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"><title>LinkedIn</title>
+    <defs>
+    <linearGradient id="bblinkedinbase" x1="0" y1="0" x2="0.3" y2="1">
+      <stop offset="0" stop-color="#0b1036"/><stop offset=".45" stop-color="#121a52"/><stop offset="1" stop-color="#0a0e2c"/>
+    </linearGradient>
+    <radialGradient id="bblinkedinglowA" cx=".78" cy=".2" r=".45"><stop offset="0" stop-color="#96b9ff" stop-opacity=".42"/><stop offset="1" stop-color="#96b9ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="bblinkedinglowB" cx=".2" cy=".62" r=".5"><stop offset="0" stop-color="#5f86ff" stop-opacity=".32"/><stop offset="1" stop-color="#5f86ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="bblinkedinglowC" cx=".5" cy="1.02" r=".6"><stop offset="0" stop-color="#2b3f9e" stop-opacity=".9"/><stop offset="1" stop-color="#2b3f9e" stop-opacity="0"/></radialGradient>
+    <linearGradient id="bblinkedinpetal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b9caff" stop-opacity=".55"/><stop offset=".45" stop-color="#6e8cf0" stop-opacity=".2"/><stop offset=".8" stop-color="#1e2878" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bblinkedinpetalB" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9d4ff" stop-opacity=".5"/><stop offset=".5" stop-color="#7a92ee" stop-opacity=".16"/><stop offset=".85" stop-color="#1e2878" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bblinkedinrimLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e6ecff" stop-opacity="0"/><stop offset=".5" stop-color="#e6ecff" stop-opacity=".55"/><stop offset="1" stop-color="#e6ecff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="bblinkedinblur" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="16"/></filter>
+    <filter id="bblinkedinshadow" x="-20%" y="-40%" width="140%" height="200%"><feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#050820" flood-opacity=".22"/></filter>
+    <linearGradient id="bblinkedintint" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".2"/><stop offset="1" stop-color="#fff" stop-opacity=".09"/></linearGradient>
+    <linearGradient id="bblinkedinrim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".85"/><stop offset=".3" stop-color="#fff" stop-opacity=".14"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity="0"/><stop offset=".7" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity=".6"/>
+    </linearGradient>
+    <radialGradient id="bblinkedinsheen" cx=".22" cy="0" r=".7"><stop offset="0" stop-color="#fff" stop-opacity=".24"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient></defs>
+    
+    <g opacity="1">
+      <rect x="23" y="23" width="104" height="104" rx="52" fill="#0b1036" filter="url(#bblinkedinshadow)"/>
+      <clipPath id="bblinkedinc2323104"><rect x="23" y="23" width="104" height="104" rx="52"/></clipPath>
+      <g clip-path="url(#bblinkedinc2323104)">
+        <g filter="url(#bblinkedinblur)" transform="translate(0 -1500)">
+    <rect width="900" height="1700" fill="url(#bblinkedinbase)"/>
+    <rect width="900" height="1700" fill="url(#bblinkedinglowA)"/>
+    <rect width="900" height="1700" fill="url(#bblinkedinglowB)"/>
+    <rect width="900" height="1700" fill="url(#bblinkedinglowC)"/>
+    
+      <g transform="rotate(-24 120 520)">
+        <ellipse cx="120" cy="520" rx="410" ry="165" fill="url(#bblinkedinpetal)"/>
+        <ellipse cx="120" cy="520" rx="410" ry="165" fill="none" stroke="url(#bblinkedinrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(32 860 160)">
+        <ellipse cx="860" cy="160" rx="380" ry="150" fill="url(#bblinkedinpetalB)"/>
+        <ellipse cx="860" cy="160" rx="380" ry="150" fill="none" stroke="url(#bblinkedinrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(-8 420 1180)">
+        <ellipse cx="420" cy="1180" rx="350" ry="130" fill="url(#bblinkedinpetal)"/>
+        <ellipse cx="420" cy="1180" rx="350" ry="130" fill="none" stroke="url(#bblinkedinrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(18 60 40)">
+        <ellipse cx="60" cy="40" rx="260" ry="100" fill="url(#bblinkedinpetalB)"/>
+        <ellipse cx="60" cy="40" rx="260" ry="100" fill="none" stroke="url(#bblinkedinrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(-38 820 980)">
+        <ellipse cx="820" cy="980" rx="320" ry="125" fill="url(#bblinkedinpetal)"/>
+        <ellipse cx="820" cy="980" rx="320" ry="125" fill="none" stroke="url(#bblinkedinrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(14 300 1560)">
+        <ellipse cx="300" cy="1560" rx="380" ry="140" fill="url(#bblinkedinpetalB)"/>
+        <ellipse cx="300" cy="1560" rx="380" ry="140" fill="none" stroke="url(#bblinkedinrimLine)" stroke-width="2"/>
+      </g></g>
+        <rect x="23" y="23" width="104" height="104" fill="url(#bblinkedintint)"/>
+        <rect x="23" y="23" width="104" height="104" fill="url(#bblinkedinsheen)"/>
+      </g>
+      <rect x="23.75" y="23.75" width="102.5" height="102.5" rx="51.25" fill="none" stroke="url(#bblinkedinrim)" stroke-width="1.5"/>
+    </g>
+    <g transform="translate(57 57)" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="1" width="34" height="34" rx="8"/><path d="M10 15v11M10 10v.5M16 26v-11M16 19.5c0-3 2-4.5 4.5-4.5S26 16.5 26 19.5V26"/></g></svg>

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="Profometer: I build the iPad app for concrete scanners. Rebar and corrosion maps live over Bluetooth. Zoom: 8× to 200×." font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"><title>Profometer: I build the iPad app for concrete scanners. Rebar and corrosion maps live over Bluetooth. Zoom: 8× to 200×.</title>
+    <defs>
+    <linearGradient id="nnprofometerbase" x1="0" y1="0" x2="0.3" y2="1">
+      <stop offset="0" stop-color="#0b1036"/><stop offset=".45" stop-color="#121a52"/><stop offset="1" stop-color="#0a0e2c"/>
+    </linearGradient>
+    <radialGradient id="nnprofometerglowA" cx=".78" cy=".2" r=".45"><stop offset="0" stop-color="#96b9ff" stop-opacity=".42"/><stop offset="1" stop-color="#96b9ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="nnprofometerglowB" cx=".2" cy=".62" r=".5"><stop offset="0" stop-color="#5f86ff" stop-opacity=".32"/><stop offset="1" stop-color="#5f86ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="nnprofometerglowC" cx=".5" cy="1.02" r=".6"><stop offset="0" stop-color="#2b3f9e" stop-opacity=".9"/><stop offset="1" stop-color="#2b3f9e" stop-opacity="0"/></radialGradient>
+    <linearGradient id="nnprofometerpetal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b9caff" stop-opacity=".55"/><stop offset=".45" stop-color="#6e8cf0" stop-opacity=".2"/><stop offset=".8" stop-color="#1e2878" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="nnprofometerpetalB" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9d4ff" stop-opacity=".5"/><stop offset=".5" stop-color="#7a92ee" stop-opacity=".16"/><stop offset=".85" stop-color="#1e2878" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="nnprofometerrimLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e6ecff" stop-opacity="0"/><stop offset=".5" stop-color="#e6ecff" stop-opacity=".55"/><stop offset="1" stop-color="#e6ecff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="nnprofometerblur" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="16"/></filter>
+    <filter id="nnprofometershadow" x="-20%" y="-40%" width="140%" height="200%"><feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#050820" flood-opacity=".22"/></filter>
+    <linearGradient id="nnprofometertint" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".2"/><stop offset="1" stop-color="#fff" stop-opacity=".09"/></linearGradient>
+    <linearGradient id="nnprofometerrim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".85"/><stop offset=".3" stop-color="#fff" stop-opacity=".14"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity="0"/><stop offset=".7" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity=".6"/>
+    </linearGradient>
+    <radialGradient id="nnprofometersheen" cx=".22" cy="0" r=".7"><stop offset="0" stop-color="#fff" stop-opacity=".24"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient></defs>
+    
+    
+    <g opacity="1">
+      <rect x="24" y="24" width="852" height="132" rx="30" fill="#0b1036" filter="url(#nnprofometershadow)"/>
+      <clipPath id="nnprofometerc2424852"><rect x="24" y="24" width="852" height="132" rx="30"/></clipPath>
+      <g clip-path="url(#nnprofometerc2424852)">
+        <g filter="url(#nnprofometerblur)" transform="translate(0 -710)">
+    <rect width="900" height="1700" fill="url(#nnprofometerbase)"/>
+    <rect width="900" height="1700" fill="url(#nnprofometerglowA)"/>
+    <rect width="900" height="1700" fill="url(#nnprofometerglowB)"/>
+    <rect width="900" height="1700" fill="url(#nnprofometerglowC)"/>
+    
+      <g transform="rotate(-24 120 520)">
+        <ellipse cx="120" cy="520" rx="410" ry="165" fill="url(#nnprofometerpetal)"/>
+        <ellipse cx="120" cy="520" rx="410" ry="165" fill="none" stroke="url(#nnprofometerrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(32 860 160)">
+        <ellipse cx="860" cy="160" rx="380" ry="150" fill="url(#nnprofometerpetalB)"/>
+        <ellipse cx="860" cy="160" rx="380" ry="150" fill="none" stroke="url(#nnprofometerrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(-8 420 1180)">
+        <ellipse cx="420" cy="1180" rx="350" ry="130" fill="url(#nnprofometerpetal)"/>
+        <ellipse cx="420" cy="1180" rx="350" ry="130" fill="none" stroke="url(#nnprofometerrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(18 60 40)">
+        <ellipse cx="60" cy="40" rx="260" ry="100" fill="url(#nnprofometerpetalB)"/>
+        <ellipse cx="60" cy="40" rx="260" ry="100" fill="none" stroke="url(#nnprofometerrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(-38 820 980)">
+        <ellipse cx="820" cy="980" rx="320" ry="125" fill="url(#nnprofometerpetal)"/>
+        <ellipse cx="820" cy="980" rx="320" ry="125" fill="none" stroke="url(#nnprofometerrimLine)" stroke-width="2"/>
+      </g>
+      <g transform="rotate(14 300 1560)">
+        <ellipse cx="300" cy="1560" rx="380" ry="140" fill="url(#nnprofometerpetalB)"/>
+        <ellipse cx="300" cy="1560" rx="380" ry="140" fill="none" stroke="url(#nnprofometerrimLine)" stroke-width="2"/>
+      </g></g>
+        <rect x="24" y="24" width="852" height="132" fill="url(#nnprofometertint)"/>
+        <rect x="24" y="24" width="852" height="132" fill="url(#nnprofometersheen)"/>
+      </g>
+      <rect x="24.75" y="24.75" width="850.5" height="130.5" rx="29.25" fill="none" stroke="url(#nnprofometerrim)" stroke-width="1.5"/>
+    </g>
+    <clipPath id="ic4652"><rect x="46" y="52" width="76" height="76" rx="17.1"/></clipPath><image href="data:image/png;base64,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" x="46" y="52" width="76" height="76" clip-path="url(#ic4652)"/>
+    <rect x="46.5" y="52.5" width="75" height="75" rx="17.1" fill="none" stroke="#fff" stroke-opacity=".22"/>
+    <text x="144" y="64" fill="#fff" fill-opacity=".72" font-size="19" font-weight="600">Profometer</text>
+    <text x="852" y="64" text-anchor="end" fill="#fff" fill-opacity=".62" font-size="18">Screening Eagle</text>
+    <text x="144" y="96" fill="#fff" font-size="24" font-weight="650" letter-spacing="-.2">I build the iPad app for concrete scanners</text>
+    <text x="144" y="128" fill="#fff" fill-opacity=".9" font-size="20">Rebar and corrosion maps live over Bluetooth. Zoom: 8× to 200×.</text></svg>
